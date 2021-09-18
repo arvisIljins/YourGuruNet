@@ -1,6 +1,6 @@
 <h2>👋 Hi, My name is Arvis Iljins and I'm the co-founder of Your Guru Net.<h2>
 <h3>View from the world in my designe<h3>
- <h3>My portfolio<h3>  <a  href="https://www.yourgurunet.com/">www.yourgurunet.com</a>
+ <a  href="https://www.yourgurunet.com/">www.yourgurunet.com</a>
 
 <h5>My main job is to help shape the idea of the execution and taking part in building products. My passion is to live, to enjoy life. Most people know me as a professional athlete, but there are more. I have traveled far away in the world and saw a lot in it. When I'm working on the formation website I am transferring to you my acquired knowledge. First one, that exploring starts with you, another, that knowledge is power, but enthusiasm pulls the switch.<h5>
 
